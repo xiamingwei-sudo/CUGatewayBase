@@ -8,10 +8,10 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/xiamwei@hotmail.com/CUGatewayBase'
+  s.homepage         = 'https://github.com/xiamingwei-sudo/CUGatewayBase'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'XiaMingWei' => 'xiamwei@hotmail.com' }
-  s.source           = { :git => 'https://github.com/xiamwei@hotmail.com/CUGatewayBase.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/xiamingwei-sudo/CUGatewayBase.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '9.0'
   s.vendored_frameworks         = "CUGatewayBase.framework"
