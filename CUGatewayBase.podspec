@@ -19,5 +19,5 @@ TODO: Add long description of the pod here.
   s.dependency "CocoaAsyncSocket", '~> 7.4.3'
   s.dependency "RHSocketKit/RPC", '2.2.4'
   s.dependency "SwiftyJSON", '~> 4.0'
-  s.dependency "Fate/Logger"
+  s.dependency "Fate"
 end
