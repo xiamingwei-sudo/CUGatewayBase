@@ -1,0 +1,11 @@
+framework module CUGatewayBase {
+  umbrella header "CUGatewayBase-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module CUGatewayBase.Swift {
+    header "CUGatewayBase-Swift.h"
+    requires objc
+}
